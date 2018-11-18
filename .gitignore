@@ -1,1 +1,7 @@
-# springcontroller
+/.gradle
+/.idea
+/build
+/gradle
+/out
+
+/
